@@ -2,58 +2,58 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-11T14:09:49 IST" name="Suite" finished-at="2024-06-11T14:10:19 IST" duration-ms="29747">
+  <suite started-at="2024-06-12T11:44:57 IST" name="Suite" finished-at="2024-06-12T11:46:11 IST" duration-ms="73948">
     <groups>
     </groups>
-    <test started-at="2024-06-11T14:09:49 IST" name="Test" finished-at="2024-06-11T14:10:19 IST" duration-ms="29747">
+    <test started-at="2024-06-12T11:44:57 IST" name="Test" finished-at="2024-06-12T11:46:11 IST" duration-ms="73948">
       <class name="com.prjct.qa.testcases.LoginpageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-11T14:09:49 IST" name="setup" finished-at="2024-06-11T14:09:55 IST" duration-ms="5797" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-12T11:44:57 IST" name="setup" finished-at="2024-06-12T11:45:15 IST" duration-ms="18015" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginpagetitletest()[pri:1, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-11T14:09:55 IST" name="loginpagetitletest" finished-at="2024-06-11T14:09:55 IST" duration-ms="23" status="PASS">
+        <test-method signature="loginpagetitletest()[pri:1, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-12T11:45:15 IST" name="loginpagetitletest" finished-at="2024-06-12T11:45:15 IST" duration-ms="28" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpagetitletest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-11T14:09:55 IST" name="teardown" finished-at="2024-06-11T14:09:55 IST" duration-ms="318" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-12T11:45:15 IST" name="teardown" finished-at="2024-06-12T11:45:16 IST" duration-ms="314" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-11T14:09:55 IST" name="setup" finished-at="2024-06-11T14:09:59 IST" duration-ms="4533" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-12T11:45:16 IST" name="setup" finished-at="2024-06-12T11:45:27 IST" duration-ms="10992" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="crmlogotest()[pri:2, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-11T14:09:59 IST" name="crmlogotest" finished-at="2024-06-11T14:10:00 IST" duration-ms="44" status="PASS">
+        <test-method signature="crmlogotest()[pri:2, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-12T11:45:27 IST" name="crmlogotest" finished-at="2024-06-12T11:45:27 IST" duration-ms="46" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- crmlogotest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-11T14:10:00 IST" name="teardown" finished-at="2024-06-11T14:10:00 IST" duration-ms="316" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-12T11:45:27 IST" name="teardown" finished-at="2024-06-12T11:45:27 IST" duration-ms="305" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-11T14:10:00 IST" name="setup" finished-at="2024-06-11T14:10:04 IST" duration-ms="4399" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-12T11:45:27 IST" name="setup" finished-at="2024-06-12T11:45:38 IST" duration-ms="10672" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:3, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-11T14:10:04 IST" name="loginTest" finished-at="2024-06-11T14:10:09 IST" duration-ms="4992" status="PASS">
+        <test-method signature="loginTest()[pri:3, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-12T11:45:38 IST" name="loginTest" finished-at="2024-06-12T11:45:50 IST" duration-ms="12415" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-11T14:10:09 IST" name="teardown" finished-at="2024-06-11T14:10:09 IST" duration-ms="168" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.LoginpageTest@564fabc8]" started-at="2024-06-12T11:45:50 IST" name="teardown" finished-at="2024-06-12T11:45:50 IST" duration-ms="156" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.prjct.qa.testcases.LoginpageTest -->
       <class name="com.prjct.qa.testcases.HomepageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6302bbb1]" started-at="2024-06-11T14:10:09 IST" name="setup" finished-at="2024-06-11T14:10:18 IST" duration-ms="9008" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6302bbb1]" started-at="2024-06-12T11:45:50 IST" name="setup" finished-at="2024-06-12T11:46:11 IST" duration-ms="20866" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifytitlepageTest()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6302bbb1]" started-at="2024-06-11T14:10:18 IST" name="verifytitlepageTest" finished-at="2024-06-11T14:10:18 IST" duration-ms="7" status="PASS">
+        <test-method signature="verifytitlepageTest()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6302bbb1]" started-at="2024-06-12T11:46:11 IST" name="verifytitlepageTest" finished-at="2024-06-12T11:46:11 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifytitlepageTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6302bbb1]" started-at="2024-06-11T14:10:18 IST" name="teardown" finished-at="2024-06-11T14:10:19 IST" duration-ms="99" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prjct.qa.testcases.HomepageTest@6302bbb1]" started-at="2024-06-12T11:46:11 IST" name="teardown" finished-at="2024-06-12T11:46:11 IST" duration-ms="87" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
