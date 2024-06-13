@@ -19,8 +19,7 @@ public class TestBase {
 	  public TestBase() {
 	  try {
 		  prop = new Properties();
-		  FileInputStream ip = new FileInputStream("C:\\Users\\mkokane\\eclipse-workspace\\Samplefrmwrk\\src"
-		  		+ "\\main\\java\\com\\prjct\\qa\\config\\config.properties");
+		  FileInputStream ip = new FileInputStream("C:\\Users\\mkokane\\eclipse-workspace\\CrmGitJenkins\\src\\main\\java\\com\\prjct\\qa\\config\\config.properties");
 		  prop.load(ip);
 	  }
 	  catch(FileNotFoundException e) {

@@ -36,7 +36,6 @@ public class HomepageTest extends TestBase{
 	}
 	
 	
-	
 	@AfterMethod
 	public void teardown() {
 		driver.close();
